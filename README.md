@@ -1,1 +1,2 @@
-
+#GRANT-MONITORING
+One of the main challenges for international students seeking to study abroad in research universities is not being able to answer 3 questions:1- which topics are hot and getting most funding? Who is getting most funding (research publishers, departments, schools..etc.)? and What is their most optimal research focus best suited for them?! in effort to answer some of these questions , I (Emad) have developed very simple python code to demo an approach of how such problems can be tackled with simple text mining , screen scraping and automation techniques.   
