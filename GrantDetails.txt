@@ -1,0 +1,783 @@
+MyGrants
+
+Hakan Aydin of the Computer Science Department received $7K from the University of Texas at San Antonio & the National Science Foundation for his project, “Energy-aware standby-sparing for periodic real-time applications on heterogeneous chip multiprocessor systems.” 
+
+Giorgio Ascoli of the Bioengineering Department received $1.7M from the Department of Health & Human Services for his project, “Generation and Description of Neuronal Morphology and Connectivity.” 
+
+Gerry Tian of the Electrical & Computer Engineering Department received $277K from the National Science Foundation for her project, “SaTC: CORE: Medium: Collaborative: Privacy Attacks and Defense Mechanisms in Online Social Networks.” 
+
+Aditya Johri of the Information Sciences and Technology Department received $300K from the National Science Foundation for his project, “Deeper Learning of Data Science (DLDS): Studying Real-world Experiences of Engineering Professionals to Prepare the Future Workforce.” 
+
+Nitin Agrawal of the Bioengineering Department received $88K from the National Science Foundation for his project, “Cellular Biomanufacturing Workshop.” 
+
+Kris Gaj & Avesta Sasan of the Electrical & Computer Engineering Department received $300K from the National Science Foundation for their project, “SaTC: STARRS: Small: IoT Circuit Locking, Obfuscation & Authentication Kernel (CLOAK).” 
+
+Viviana Maggioni of the Sid and Reva Dewberry Department of Civil, Environmental and Infrastructure Engineering and Paul Houser of the College of Science received $60K from the NASA-Goddard Space Flight Center for their project, “Next-Generation Large-Scale Fractional Freeze/Thaw Analysis.” 
+
+  
+
+Robert Elder of the Mechanical Engineering Department received $110K from The Johns Hopkins University Applied Physics Laboratory & NAVSEA for his project, “National C3 (NC3) Architecture Modernization.” 
+
+Itamara Lochard & Mark Pullen of the C4I & Cyber Center received $525K from the Office of Naval Research for their project, “Command and Control of the Information Environment (C2 of IE): Understanding the Social and Technical Aspects of IE in Hybrid Warfare and Complex Operations.” 
+
+  
+
+Kathleen Wage of the Electrical & Computer Engineering Department received $150K from the Office of Naval Research for her project, “BRC: Co-Prime Sensor Array Signal Processing.” 
+
+  
+
+Daniel Lofaro of the Electrical & Computer Engineering Department received $3K from the Institute of Electrical & Electronics Engineers (IEEE) for his project, “SIGHT Project-Smart Hive.” 
+
+Sean Luke & Bob Simon of the Computer Science Department and Andrew Crooks of the College of Science received $896K from the National Science Foundation for their project, “CI-EN: Enhancement of a Large-scale Multiagent Simulation Tool.” 
+
+  
+
+Mohan Venigalla & Shanjiang Zhu of the Sid and Reva Dewberry Department of Civil, Environmental and Infrastructure Engineering received $25K from Howard University & the District Department of Transportation for their project, “Analysis Per Ride Fare Data for Capital Bike Share.” 
+
+Carolina Salvador Morales & Juan Cebral of the Bioengineering Department received $437K from the National Institutes of Health for their project, “Engineering a novel theranostic device for breast cancer treatment based on multiplexing semiconducting patchy polymeric particles.
+July 10, 2017 
+
+Kathy Laskey of the  C4I & Cyber Center and Systems Engineering & Operations Research Department received $30K from Baies, LLC for her project, “Development of a Planning System using Mulit-Entity Bayesian Networks.”
+July 10, 2017 
+
+Duminda Wijisekera of the Center for Assured Research & Engineering received $70K from the Department of Commerce (NIST) for his project, “A Forensic Framework for Cloud Computing.”
+June 19, 2017
+  
+
+Aditya Johri & Hemant Purohit of the Information Sciences and Technology Department received $299K from the National Science Foundation for their project, “EAGER: Social Media Participation as Indicator of Actors, Awareness, Attitudes, and Activities Related to STEM Education.”
+June 19, 2017 
+
+Avrama Blackwell of the Bioengineering Department received $5K from the Burroughs Welcome Fund for her project, “The Role of the Dorsal Striatum During Short-term Motor Adaptation.”
+June 19, 2017 
+
+Jie Xu of the Systems Engineering & Operations Research Department received $100K from the Jeffress Trust for his project, “Increasing Power Grids Resilience To Weather Via Optimal Power Line Hardening.”
+June 17, 2017 
+
+Wanli Qiao of the Statistics Department & Amarda Shehu of the Computer Science Department received $100K from the Jeffress Trust for their project, “      High-dimensional Statistics and Biomolecular Modeling as a Powerful Microscope over Pathogenic Mutations in Proteinopathies.”
+June 17, 2017 
+
+Carolina Salvador-Morales of the Bioengineering Department received $100K from the Center for Innovative Technology for her project, “A Multiplexing Photoacoustic Thernostic System for Treatment of Breast Cancer.”
+June 19, 2017 
+
+Ken Ball, Dean of VSE, received $250K from the Center for Innovative Technology for his project, “Recruitment of Eminent Scholar in Bioengineering in partnership with INOVA Health System.”
+June 17, 2017
+  
+
+Burak Tanyu, Celso Ferreira, & Liza Durant of the Sid and Reva Dewberry Department of Civil, Environmental and Infrastructure Engineering received $100K from the Jeffress Trust for their project, “Evaluating the Potential of Bio-Inspired Soils to Enhance Nature Based Coastal Resiliency Systems by Combining Experimental and Computational Methods.”
+June 19, 2017 
+
+Lance Sherry of the Center for Air Transportation Systems Research received $25K from Booz Allen Hamilton & the National Academy of Sciences for his project, “ACRP 03-45 Collecting and Sharing of Operational and Safety Data.”
+June 19, 2017 
+
+Nitin Agrawal of the Bioengineering Department received $307K from the National Science Foundation for his project, “Eager: Biomanufacturing: Liposome mediated targeted expansion and stimulation of CD8+ cytotoxic T-cells.” 
+
+May 22, 2017 
+
+Jessica Lin of the Computer Science Department received $51K from Strategic Analysis, Inc. and the Naval Research Laboratory for her project, “Trajectory Pattern Mining and user Behaviour Characterization on Large-Scale Track Data.” 
+
+May 22, 2017 
+
+Alex Levis & Robert Elder of the Electrical & Computer Engineering Department received $245K from Griffiss Institute, Inc., and the U.S. Air Force (AFRL) for their project, “Architectural Design Support to Air Force Multi-domain Command and Control Study.” 
+
+May 15, 2017 
+
+Jyh-Ming Lien of the Computer Science Department received $136K from the University of Arizona and the Air Force Office of Scientific Research for his project, “DDDAMS-Based Urban Surveillance and Crowd Control via UAV's and UGV's.” 
+
+May 15, 2017 
+
+Sharon Caraballo, Associate Dean for Undergraduate Programs, received $9K from the U.S. Department of Commerce (NIST) for her project, “SURF Boulder: Experience for Mason Undergraduates - Doreen Joseph.” 
+
+May 15, 2017 
+
+Sharon Caraballo, Associate Dean for Undergraduate Programs, received $21K from the U.S. Department of Commerce (NIST) for her project, “FY 2017 Summer Undergraduate Research Fellowship EL, ITL.” 
+
+May 11, 2017 
+
+Aditya Johri of the Information Sciences and Technology Department received $50K from the National Science Foundation for his project, “RAPID: Collaborative Research: Technology Adoption during Environmental Jolts: Mobile Phone Use and Digital Services Appropriation during India's Demonetization Crisis.” 
+
+May 11, 2017 
+
+Daniel Barbará of the Computer Science Department received $28K from Decisive Analytics Corporation and the Department of Defense for his project, “Advanced Predictive Analysis Capabilities.” 
+
+May 2, 2017 
+
+John Shortle of the Systems Engineering & Operations Research Department received $135K from the University of Maryland and the Federal Aviation Administration for his project, “Barrier Analysis of Event Tree Models for Aviation Safety.” 
+
+April 24, 2017 
+
+Sushil Jajodia of the Center for Secure Information Systems received $50K from General Dynamics Information Technology for his project, “Collaborative Research: I/UCRC Program Center for Configuration Analytics and Automation - Membership Agreement.” 
+
+April 24, 2017 
+
+Peter Paris, Cameron Nowzari, Jill Nelson, & Brian Mark of the Electrical & Computer Engineering Department received $100K from the National Science Foundation for their project, “EAGER: SC2: Efficient, Collaborative Spectrum Sharing through a Systems and Optimal Control Approach.” 
+
+April 10, 2017 
+
+Mark Pullen & Nick Clark of the C4I & Cyber Center received $21K from NATO for their project, “C2SIM Sandbox.” 
+
+April 10, 2017 
+
+Hemant Purohit of the Information Sciences and Technology Department received $23K from Western Norway Research Institute for his project, “Transnational Partnership for Excellent Research and Education in Big Data and Emergency Management.” 
+
+April 10, 2017 
+
+Kai Zeng of the Electrical & Computer Engineering Department received $241K from the National Science Foundation for his project, “EARS: Collaborative Research: Intelligence Measure of Cognitive Radio Networks.” 
+
+March 28, 2017 
+
+Kathy Laskey, Abbas Zaidi, & Edward Huang of the Systems Engineering & Operations Research Department and the Center for C4I & Cyber received $927K from Innovative Decisions, Inc. and IARPA for their project, “Interference Enterprise Multi-Modeling.” 
+
+March 28, 2017 
+
+John Shortle of the Systems Engineering & Operations Research Department received $5K from the National Science Foundation for his project, “Workshop: Towards an Ecosystem of Simulation Models and Data; 5th INFORMS Simulation Society Research Workshop; University of Durham; United Kingdom. 
+
+July 31 to August 2, 2017.” 
+
+March 20, 2017 
+
+Qiliang Li of the Electrical & Computer Engineering Department received $15K from the Virginia Microelectronics Consortium for his project, “Graphene Chemical Vapor Sensor Measurement System.” 
+
+March 20, 2017 
+
+Dimitrios Ioannou of the Electrical & Computer Engineering Department received $15K from the Virginia Microelectronics Consortium for his project, “Junctionless FET-based FeRAM with Glassy-Polymer Electret Gate Dielectrics.” 
+
+March 20, 2017 
+
+Hemant Purohit of the Information Sciences and Technology Department received $175K from the National Science Foundation for his project, “CRII: CHS: Mining Intentions on Social Media to Enhance Situational Awareness of Crisis Response Organizations.” 
+
+March 13, 2017 
+
+Duminda Wijisekera of the Center for Assured Research & Engineering received $85K from North Carolina State University and the Department of Defense for his project, “Global Impact of Conflict Economies Due to Evolving Clandestine Organ Trade.” 
+
+February 28, 2017 
+
+Lance Sherry & John Shortle of the Center for Air Transportation Systems Research and the Systems Engineering & Operations Research Department received $35K from the MITRE Corporation for their project, “Design of a sUAS Airworthiness Assessment Tool.” 
+
+February 28, 2017 
+
+Qiliang Li of the Electrical & Computer Engineering Department received $255K from N5 Sensors, Inc. and NASA for his project, “Nanoengineered Hybrid Gas Sensors for Spacesuit Monitoring”. 
+
+February 16, 2017 
+
+Alex Brodsky of the Computer Science Department received $30K from the National Science Foundation for his project, “Student Support: NIST-ASTM-NSF-ASME Workshop & Competition on Formalizing Manufacturing Processes for Structured Sustainability Assessments; Los Angeles, California.
+
+June 4-8, 2017.
+
+February 16, 2017 
+
+Dov Gordon of the Computer Science Department received $157K from the Naval Research Laboratory for his project, “Applying Secure Multiparty Computation to the Secure Evaluation of Tor Network Statistics.” 
+
+January 30, 2017 
+
+Mike Hieb and Mark Pullen of the C4I & Cyber Center, Jan Allbeck of the Computer Science Department, and Andrew Crooks of the College of Science received $375K from DARPA for their project, “Megacities Command and Control Assessment Capability.” 
+
+January 30, 2017 
+
+George Tecuci of the Learning Agents Center (LAC) and the Computer Science Department, Mihai Boicu of LAC and the Information Sciences and Technology Department, and Dorin Marcu of LAC received $650K from the U.S. Air Force (AFRL) for their project, “Agile Cognitive Assistants for Advanced Persistent Threat Detection.” 
+
+January 23, 2017 
+
+Kathy Laskey of the C4I & Cyber Center and the Systems Engineering & Operations Research Department received $68K from SETechnology, Ltd. for her project, “Post-doctoral research in smart manufacturing.” 
+
+January 23, 2017 
+
+Mohan Venigalla of the Sid and Reva Dewberry Department of Civil, Environmental and Infrastructure Engineering and Mark White & Terry Clower of the Schar School of Policy and Government received $193K from Howard University and the District of Columbia Department of Transportation for their project, “DDOT Freight Trip Generation ON-SITE BERTHS AND CURBSIDE IMPLICATIONS.” 
+
+January 23, 2017 
+
+Andy Loerch of the Systems Engineering & Operations Research Department received $5K from the Office of Naval Research for his project, “Combinatorial Optimization.” 
+
+January 18, 2017 
+
+Guoqing Diao of the Statistics Department received $32K from      Otsuka Pharmaceutical Development & Commercialization Inc. for his project, “Academic Research Collaboration between Otsuka and GMU.” 
+
+January 18, 2017 
+
+KC Chang of the Systems Engineering & Operations Research Department received $118K from the Department of the Navy (NAVSUP) for his project, “Developing An Analytic Model of Success for Acquisition Decision Making.” 
+
+January 18, 2017 
+
+Itamara Lochard of the C4I & Cyber Center received $70K from NATO for her project, “Senior Leadership ATC on Military and Defence Aspects of Border Security in South East Europe.” 
+
+January 10, 2017 
+
+Jessica Lin and Huzefa Rangwala of the Computer Science Department received $44K from Strategic Analysis,Inc. and the Naval Research Laboratory for their project, “Trajectory Pattern Mining and User Behavior Characterization on Large-Scale Track Data.” 
+
+January 10, 2017 
+
+Mike Hieb of the C4I & Cyber Center received $54K from EOIR Technologies, Inc. and the Department of Defense for his project, “Simulation Interoperability to Mission Control (SIMCI).” 
+
+January 10, 2017 
+
+Celso Ferreira of the Sid and Reva Dewberry Department of Civil, Environmental and Infrastructure Engineering received $5K from the Virginia Institute of Marine Science and the U.S. Department of Commerce for his project, “Assessing Future Storm Surge Flooding with Projected Climate Change and Sea Level Rise: Bringing Ecosystem Services into Mainstream Decision Making Processes for a Climate Resilient Coastal Virginia.” 
+
+January 10, 2017 
+
+Tod Levitt & Kathy Laskey of the C4I & Cyber Center received $78K from Opto-Knowledge Systems, Inc. and the Missile Defense Agency for their project, “Post Intercept Assessment (PIA).” 
+
+January 10, 2017 
+
+Bob Elder of the C4I & Cyber Center received $100K from The Johns Hopkins University / Applied Physics Laboratory and NAVSEA for his project, “National C3 (NC3) Architecture Modernization.” 
+
+December 13, 2016 
+
+Jessica Lin and Huzefa Rangwala of the Computer Science Department received $74K from Strategic Analysis, Inc. and the Naval Research Laboratory for their project, “User Information Demand Modeling.” 
+
+December 5, 2016 
+
+Elise Miller-Hooks of the Sid and Reva Dewberry Department of Civil, Environmental and Infrastructure Engineering received $148K from the University of Maryland and the U.S. Department of Transportation for her project, “University Transportation Centers Program - National.” 
+
+December 5, 2016 
+
+David Lattanzi of the Sid and Reva Dewberry Department of Civil, Environmental and Infrastructure Engineering received $50K from the National Science Foundation for his project, “I-Corps: Bringing Digital Twin Technology to the Asset Management Community.” 
+
+December 5, 2016 
+
+Siddhartha Sikdar, Parag Chitnis, and Wil Joiner of the Bioengineering Department received $400K from the National Science Foundation for their project, “CPS:Synergy:Collaborative Research: Closed-loop Hybrid Exoskeleton utilizing Wearable Ultrasound Imaging Sensors for Measuring Fatigue.” 
+
+December 5, 2016 
+
+Duminda Wijisekera of the Center for Assured Research & Engineering received $150K from the Logistics Management Institute Research Institute for his project, “Sharing Human Genomic Data.” 
+
+November 29, 2016 
+
+Vadim Sokolov of the Systems Engineering & Operations Research Department received $75K from the University of Chicago / Argonne and the U.S. Dept. of Energy for his project, “Development Support for POLARIS Transportation System Model.” 
+
+November 29, 2016 
+
+Robert Gallo of the Mechanical Engineering Department received $20K from SAFE, Inc. and the U.S. Dept. of Defense for his project, “Mechanical Engineering Senior Capstone Design: NACE Design Challenge.” 
+
+November 29, 2016 
+
+Xinyuan (Frank) Wang of the Computer Science Department received $65K from CyberRock, Inc. and the U.S. Army his project, “Tactical Immune System (TIS) Based on Dynamically Assigned Sense of Self.” 
+
+November 21, 2016 
+
+Lance Sherry of Center for Air Transportation Systems Research received $365K from the University of Iowa and NASA for his project, “Enhancing Airplane State Awareness for Current and Future Operations.” 
+
+November 14, 2016 
+
+Vadim Sokolov of the Systems Engineering & Operations Research Department received $228K from the University of Chicago and the U.S. Department of Transportation for his project, “Coordinated Transit Response Planning and Operations Support Tools for Mitigating Impacts of All-Hazard Emergency Events. 
+
+November 14, 2016 
+
+Peggy Brouse of the Systems Engineering & Operations Research Department, and Jim Jones & Kai Zeng of the Electrical & Computer Engineering Department received $304K from the National Security Agency for their project, “U.S. Army Reserve Cyber P3 Program.” 
+
+November 14, 2016 
+
+Sushil Jajodia, Kun Sun, & Kai Zeng of the Center for Secure Information Systems received $449K from the Office of Naval Research for their project, “COTS Approach to Information Security.” 
+
+November 7, 2016 
+
+Giorgio Ascoli of the Bioengineering Department received $300K from the National Science Foundation for his project, “EAGER: Enabling Discovery and Scientific Collaboration on Human Memory via the Web-Based Atlas and Tissue Bank for Patient H.M.'s Brain.” 
+
+November 7, 2016 
+
+Edward Huang, Lance Sherry, & John Shortle of the Systems Engineering & Operations Research Department received $249K from Intelligent Automation Inc. and NASA for their project, “Developing a Safe Architecture for a Million-Flight National Airspace System (NAS).” 
+
+November 7, 2016 
+
+Kun Sun of the Center for Secure Information Systems received $589K from the Office of Naval Research for his project, “Design and Implementation of Decoy Enhanced Dynamic Virtualization Networks.” 
+
+October 10, 2016 
+
+Kun Sun of the Center for Secure Information Systems received $541K from the Office of Naval Research for his project, “Cyber Moat: Adaptive Virtualized Network Framework for Deception and Disinformation.” 
+
+October 10, 2016 
+
+Duminda Wijisekera of the Computer Science Department and Paolo Costa of the Systems Engineering & Operations Research Department received $318K from Syntek Technologies and the Federal Railroad Administration for their project, “Technical Support for DOT Positive Train Control Program.” 
+
+October 10, 2016 
+
+Gheorghe Tecuci, Mihai Boicu, and Dorin Marcu of the Learning Agents Center; James Trefil of the College of Science; and Nancy Holincheck of the College of Education and Human Development received $300K from the National Science Foundation for their project, “Teaching Critical Thinking Skills in Science with sInvestigator.” 
+
+October 10, 2016 
+
+Vivian Motti of the Information Sciences and Technology Department received $14K from Clemson University and the National Science Foundation for her project, “ABR: Collaborative research: Computational Jewelry for Mobile Health.” 
+
+October 3, 2016 
+
+Siddhartha Sikdar, Parag Chitnis, & Wilsaan Joiner of the Bioengineering Department; Guoqing Diao of the Statistics Dept.; and Michelle Harris-Love of the College of Health and Human Services  received $995K from the U.S. Army Medical Research Acquisition Activity (USAMRAA) for their project, “Intuitive Control of Upper Extremity Prostheses Using Novel Ultrasonic Sensing of Residual Muscle Activity.” 
+
+October 3, 2016 
+
+Jim Jones of the Electrical & Computer Engineering Department and Kathy Laskey of the Systems Engineering & Operations Research Department received $135K from the U.S. Department of the Navy (NAVSUP) for their project, “Inferring Past Mobile Device Activity from Partial Digital Artifacts.” 
+
+September 19, 2016 
+
+Mark Pullen & Nick Clark of the C4I & Cyber Center received $23K from NATO for their project, “C2SIM Sandbox.” 
+
+September 19, 2016 
+
+Ken De Jong & Huzefa Rangwala of the Computer Science Department, and James Kinter of the College of Science received $450K from the National Science Foundation for their project, “MRI: Acquisition of a Shared Scalable Research Storage System.” 
+
+September 19, 2016 
+
+Robert Handler of the Mechanical Engineering Department received $42K from the National Science Foundation for his project, “Collaborative Research: Thermal Transport in Elastic Turbulence.” 
+
+September 12, 2016 
+
+Viviana Maggioni of the Sid and Reva Dewberry Department of Civil, Environmental and Infrastructure Engineering and Paul Houser of the College of Science received $233K from the NASA-Goddard Space Flight Center for their project, “ROSES 2015/HMA-LDAS: Hyper-resolution High Mountain Asia - Land Data Assimilation System.” 
+
+September 12, 2016 
+
+Siddhartha Sikdar of the Bioengineering Department and James Thompson of the Psychology Department received $1.6M from the National Science Foundation for their project, “MRI: Acquisition of a 3-T MRI for Integrative Brain-Body Imaging.” 
+
+September 12, 2016 
+
+Angelos Stavrou of the Center for Assured Research & Engineering received $474K from the National Institute of Standards and Technology for his project, “Towards Measuring Security for IoT.” 
+
+August 29, 2016 
+
+Jill Nelson of the Electrical & Computer Engineering Department and Laura Lukes of the Center for Teaching and Faculty Excellence received $54K from the National Science Foundation for their project, “Collaborative Research: RAPID--EclipseMob - Crowdsourcing a Spatial Temporal Study of Low Frequency Propagation Effects Due to a Total Solar Eclipse.” 
+
+August 29, 2016 
+
+Sushil Jajodia of the Center for Secure Information Systems received $50K from the National Institute of Standards and Technology  for his project, “Securing Cloud Infrastructure through Quantitative Threat Models and Optimization.” 
+
+August 29, 2016 
+
+Kai Zeng of the Electrical & Computer Engineering Department received $499K from the National Science Foundation for his project, “TWC:Small:Secure Near Field Communications between Mobile Devices.” 
+
+August 29, 2016 
+
+Viviana Maggioni of the Sid and Reva Dewberry Department of Civil, Environmental and Infrastructure Engineering and Paul Houser of the College of Science received $280K from NASA for their project, “Hyper-Resolution Hyrdologic Modeling Enabled by SMAP Observations.” 
+
+August 29, 2016 
+
+Duminda Wijisekera of the Computer Science Department received $60K from the National Institute for Standards & Technology (NIST) for his project, “A Three-level Graph Based Model for Forensic Analysis on Planned Missions.” 
+
+August 22, 2016 
+
+Kamaljeet Sanghera of the Information Sciences and Technology Department received $3K from National Center for Women & Information Technology for her project, “Girls Code IT Camp.” 
+
+August 22, 2016 
+
+Bob Elder & Alex Levis of the Electrical & Computer Engineering Department received $200K> from the University of Maryland and the Department of Homeland Security for their project, “Research Support for SOCOM: Shadows of Violence: Empirical Assessments of Threats, Coercion and Gray Zones. 
+
+August 22, 2016 
+
+Jessica Lin & Huzefa Rangwala of the Computer Science Department received $139K from Strategic Analysis Inc. & the Naval Research Laboratory for their project, “Trajectory Pattern Mining and User Behavior Characterization on Large-Scale Track Data.” 
+
+August 15, 2016 
+
+Shanjiang Zhu of the Sid and Reva Dewberry Department of Civil, Environmental and Infrastructure Engineering received $50K from <AGENCY> for his project, “RAPID: Transit Network Disruption, Service Reliability, and Travel Behavior.” 
+
+August 15, 2016 
+
+Giorgio Ascoli of the Bioengineering Department received $5K from Burroughs-Wellcome for his project, “Barcode sequencing of axonal projections to classify long-range cortical neurons.” 
+
+August 15, 2016 
+
+Gerry Tian of the Electrical & Computer Engineering Department received $400K from the National Science Foundation for her project, “CIF: Small: Task-Cognizant Sparse Sensing for Inference.” 
+
+August 8, 2016 
+
+Bill Roeting & Mark Pullen of the C4I & Cyber Center received $1.5M from the U.S. Air Force for their project, “Close Air Support Experimentation Campaign - Travel.” 
+
+August 8, 2016 
+
+Sean Luke of the Computer Science Department received $475K from NSF for his project, “CI-EN: Enhancement of ECJ, A High-Performance Community Metaheuristics Library for Stochastic Optimization Research.” 
+
+August 8, 2016 
+
+Mihai Boicu, Gheorghe Tecuci, & Dorin Marcu of the Learning Agents Center received $100K from The MITRE Corporation and the National Reconnaissance Office for their project, “Towards Persistent Intelligence Processing.” 
+
+August 8, 2016 
+
+Carlotta Domeniconi of the Computer Science Department received $53K from FedSavvy Strategies, LLC for her project, “Development of Competitive Intelligence Analysis Enhancement Using Structured and Unstructured Data.” 
+
+August 8, 2016 
+
+Sushil Jajodia of the Center for Secure Information Systems, Rajesh Ganesan of the Systems Engineering & Operations Research Department, and
+Hemant Purohit of the Information Sciences and Technology Department received $1.2M from Office of Naval Research for their project, “Believable Fake Scientific Document Generation by Exploring Data Semantics.” 
+
+July 25, 2016 
+
+Max Albanese of the Center for Secure Information Systems received $10K from Vencore Labs, Inc. and the Army Research Office for his project, “Visiting Scientist: A Framework for Evaluating Botnet Detection Strategies.” 
+
+July 25, 2016 
+
+Ken Hintz of the Electrical & Computer Engineering Department received $452K from the U.S. Department of the Navy (NAVSUP) for his project, “The Automatic SIEV-Net Instantiation for Collection Planning and Execution by ORM.” 
+
+July 25, 2016 
+
+Angelos Stavrou & J.P. Auffret of the Center for Assured Research & Engineering received $300K from the National Science Foundation for their project, “City and County Cross Jurisdiction Cybersecurity Collaboration Capacity Building.”  
+
+July 11, 2016 
+
+Siddhartha Sikdar of the Bioengineering Department received $80K from the Department of Veterans Affairs for his project, “ACCOF (Asymptomatic Cartoid Stenosis: Cognitive Function and Plaque Correlates).” 
+
+July 05, 2016 
+
+John Shortle of the Center for Air Transportation Systems Research and Systems Engineering & Operations Research Department received $49K from the Logistics Management Institute and NASA for his project, “Systems Analysis Benefits Metrics.” Shortle also received $79K from the University of Maryland and the Federal Aviation Administration for his project, “NEXTOR II: DO33: Wake Turbulence Research: Phase 4 - 2nd Year.” 
+
+July 05, 2016 
+
+Vasiliki Ikonomidou of the Bioengineering Department, and Andre Manitius, Monty Hayes, & Jill Nelson of the Electrical & Computer Engineering Department received $140K from Micron Technology Inc. for their project, “MicronTechnology/AcousticDiagnostic.” 
+
+July 05, 2016 
+
+Bob Simon of the Computer Science Department received $36K from Axiom, Inc. for his project, “Design and evaluation of address-agile multicasting for disruption-tolerant networking.” 
+
+June 27, 2016 
+
+Celso Ferreira of the Sid and Reva Dewberry Department of Civil, Environmental and Infrastructure Engineering received $183K from the University of Michigan and the National Science Foundation for his project, “Hazard SEES Type 2: Modeling to Promote Regional Resilience to Repeated Heat Waves and Hurricanes.” 
+
+June 22, 2016 
+
+Shanjiang Zhu of the Sid and Reva Dewberry Department of Civil, Environmental and Infrastructure Engineering received $100K from the University of Maryland, College and the U.S. Department of Transportation for his project, “Advancing Travel Behavior Information Gathering Through Public Domain Data.” 
+
+June 22, 2016 
+
+Carolina Salvador-Morales & Juan Cebral of the Bioengineering Department received $100K from the Jeffress Trust for their project, “Using Computational Modeling for the Design and Optimization of Novel Cancer Thernostics.” 
+
+June 22, 2016 
+
+David Lattanzi of the Sid and Reva Dewberry Department of Civil, Environmental and Infrastructure Engineering received $100K from the Jeffress Trust for his project, “Connecting 3D Imaging and Computational Mechanics for Next-generation Civil Infrastructure Assessment.” 
+
+June 22, 2016 
+
+Amarda Shehu & Ken De Jong of the Computer Science Department received $8K from the National Science Foundation for their project, “REU Supplement for CCF: AF: Small: Novel Stochastic Optimization Algorithms to Advance the Treatment of Dynamic Molecular Systems.” 
+
+June 22, 2016 
+
+Songqing Chen of the Computer Science Department received $50K from the U.S. Department of Commerce (NIST) for his project, “DDos Detection and Mitigation via Programmable SDN Traffic Measurement.” 
+
+June 22, 2016 
+
+Kathy Laskey, Abbas Zaidi, & Edward Huang of the C4I & Cyber Center and the Systems Engineering & Operations Research Department received $613K from Innovative Decisions, Inc. and IARPA for their project, “Inference Enterprise Multi-Modeling.” 
+
+June 22, 2016 
+
+Amarda Shehu of the Computer Science Department received $8K from the National Science Foundation for her project, “REU Supplement for CAREER: Probabilistic Methods for Addressing Complexity and Constraints in Protein Systems.” 
+
+June 22, 2016 
+
+Jill Nelson of the Electrical & Computer Engineering Department received $221K from Office of Naval Research for her project, “Developing Frameworks and Modeling Behavior for Cognitive Sonar.” 
+
+June 22, 2016 
+
+Alex Brodsky & Danny Menascé of the Computer Science Department received $145K from the U.S. Department of Commerce for their project, “Decision Support Systems for Smart Manufacturing Processes: Toward Standards on Reusable Knowledge Base for Analytics and Optimization.” 
+
+June 22, 2016 
+
+Anand Vidyashankar of the Statistics Department received $140K from McKesson Corporation for his project, “New Re-identification Risk Measures for Complex Health Care Data.” 
+
+June 22, 2016 
+
+Angelos Stavrou and J.P. Auffret of the Center for Assured Research & Engineering received $1.5M from PFP Cybersecurity and DARPA for their project, “Enhanced Cyber Defense by Leveraging Involuntary Analog Emissions.” 
+
+May 30, 2016 
+
+Dov Gordon of the Computer Science Department received $371K from the National Science Foundation for his project, “TWC: Medium: Collaborative: New Protocols and Systems for RAM-Based Secure Computation.” 
+
+May 23, 2016 
+
+Nitin Agrawal of the Bioengineering Deparment and Robert Kressman of the Krasnow Institute received $157K from the National Science Foundation for their project, “EAGER: An Integrated Multi-Sensing Platform for Real Time Hypoxia Studies.” 
+
+May 23, 2016 
+
+Tod Levitt and Kathy Laskey of the C4I & Cyber Center received $38K from Opto-Knowledge Systems, Inc., and the Missile Defense Agency for his project, “Interactive Context-Aware Discrimination (ICAD).” 
+
+May 23, 2016 
+
+Zhi (Gerry) Tian of the Electrical & Computer Engineering Department received $50K from the National Science Foundation for her project, “Workshop: Promoting Broader Impacts of Research on Electrical, Communications and Cyber Systems; Holiday Inn Hotel, Arlington, Virginia.” 
+
+May 12-13, 2016 
+
+Bijan Jabbari of the Electrical & Computer Engineering Department received $277K from the Naval Research Laboratory for his project, “Secure MAC Wireless Network Protocols.” 
+
+May 16, 2016 
+
+Burak Tanyu of the Sid and Reva Dewberry Department of Civil, Environmental and Infrastructure Engineering received $80K from the National Science Foundation for his project, “Investigation of Physical and Chemical Clogging Phenomena in Underdrain Stormwater Systems Utilizing Geotextiles.” 
+
+May 16, 2016 
+
+Sean Luke of the Computer Science Department received $16K from the National Science Foundation for his project, “REU supplement: NRI: Small: Online Training of Hierarchical Multirobot Teams.” 
+
+May 16, 2016 
+
+Jessica Lin of the Computer Science Department received $8K from Strategic Analysis, Inc. and the Naval Research Laboratory for her project, "Trajectory Pattern Mining for Proactive Decision Support." 
+
+May 2, 2016 
+
+Lance Sherry and John Shortle of the Center for Air Transportation Systems Research received $58K from the MITRE Corporation for their project, "sUAS Airworthiness Risk Methodology." 
+
+May 2, 2016 
+
+Angelos Stavrou and Dan Fleck of the Center for Assured Research & Engineering received $944K from Vencore, Inc. and DARPA for their project, "Extreme DDoS Defense- TA3."   
+
+May 2, 2016 
+
+Siddhartha Sikdar of the Bioengineering Department received $70K from Inova Healthcare for his project, "Novel Methods for Sonographic Evaluation of Blunt Cervical Vascular Injuries."   
+
+April 18, 2016 
+
+Jim Jones & Houman Homayoun of the Electrical & Computer Engineering Department received $75K from MITRE and the University of Maryland for their project, "Persistence and Extraction of Digital Artifacts from Embedded Systems."   
+
+April 18, 2016 
+
+Vasiliki Ikonomidou of the Bioengineering Department received $49K from the Army Research Office for her project, "Information Processing and Fusion: Change Point Detection for Video-Based Stressor Identification." 
+
+April 11, 2016 
+
+Kathy Laskey, Abbas Zaidi, and Edward Huang of the C4I & Cyber Center and the Systems Engineering & Operations Research Department received $153K from Innovative Decisions, Inc., and IARPA for their project, "Inference Enterprise Multi-Modeling." 
+
+April 11, 2016 
+
+Sushil Jajodia of the Center for Secure Information Systems and Rajesh Ganesan of the Systems Engineering & Operations Research Department received $162K from Pennsylvania State University and the Army Research Office for their project, "Recognizing Unexplained Behavior in Network Events." 
+
+Dov Gordon of the Computer Science Department received $416K from Galois Inc. and DARPA for his project, "Jana: Ensuring Secure, Private, and Flexible Data Access." 
+
+Bill Roeting, Mark Pullen, Tod Levitt & Nicolas Clark of the C4I Center received $1.09M from Alion Science & Technology Corporation and DTIC for their project, "Close Air Support (CAS) Experimentation Campaign." 
+
+Kamaljeet Sanghera of the Information Sciences and Technology Department received $3K from National Center for Women and Information Technology for her project, "   Aspire IT: techBloom Camp."  
+
+Burak Tanyu of the Sid and Reva Dewberry Department of Civil, Environmental and Infrastructure Engineering received $257K from the Virginia Department of Transportation for his project, "Developing a Design Methodology & Quality Control Measures to Use Reclaimed Asphalt Pavement (RAP) in Unbound Base Aggregate in Flexible Pavement Systems." 
+
+Danny Menascé and Hassan Gomaa of the Computer Science Department received $1.02M from the Air Force Office of Scientific Research for their project, "RASS: Resilient Autonomic Software Systems."  
+
+Houman Homayoun and Jens-Peter Kaps of the Electrical & Computer Engineering Department received $330K from the Air Force Research Laboratory for their project, "Logical Vanishability through Hybrid STT LUT Technology to Prevent Reverse Engineering." 
+
+Andy Loerch of the Systems Engineering & Operations Research Department and Liansheng Tang of the Statistics Department received $31K from ManTech International Corporation and the Department of Defense for their project, "Support to US Marine Corps Gender Integration Experiment." 
+
+Anand Vidyashankar of the Statistics Department received $70K from McKesson Corporation for his project, "Statistical Issues in Re-Identification Risk in Healthcare." 
+
+Robert Elder and Alex Levis of the Electrical & Computer Engineering Department received $133K from Exelis and the Naval Research Laboratory for their project, "Kinetic/Non-Kinetic Integrated Force Effects (KNIFE) JCTD Transition Activities." 
+
+Bill Roeting, Mark Pullen, Tod Levitt, & Nicholas Clark of the C4I Center received $70K from Alion Science & Technology Corporation and the U.S. Air Force for their project, "Close Air Support (CAS) Experimentation Campaign."   
+
+Kamaljeet Sanghera of the Information Sciences and Technology Department received $2K from National Center for Women and Information Technology for her project, "CS Unplugged and Cool Gadgets Workshop."  
+
+K.-C. Chang of the Systems Engineering & Operations Research Department received $220K from Intelligent Fusion Technology, Inc., and the U.S. Air Force for his project, "Dynamic Spectrum Access in Space Application."  
+
+Juan Cebral of the Bioengineering Department received $230K from the Mayo Clinic and the National Institutes of Health for his project, "Computational and Biological Approach to Flow Diversion." 
+
+Zhi (Gerry) Tian of the Electrical & Computer Engineering Department received $296K from the National Science Foundation for her project, "EARS: Collaborative Research: Spectrum Sensing for Coexistence of Active and Passive Radio Services." 
+
+Duminda Wijisekera of the Center for Assured Research & Engineering received $228K from Department of Transportation for his project, "Providing PTC Subject Matter Expertise to the FRA." 
+
+Robert Elder and Alex Levis of the Electrical & Computer Engineering Department received $100K from the University of Maryland and the Department of Homeland Security for their project, "The Re-awakened Bear: Emerging Threats and Opportunities in Eurasia." 
+
+K.C. Chang, C.-H. Chen, Jie Xu, and Edward Huang of the Systems Engineering & Operations Research Department received $249K from the National Science Foundation and the Air Force Office of Scientific Research for their project, “EAGER-Dynamic Data: Scalable Multi-Model Data Acquisition and Resource Allocation via Adaptive Multi-Fidelity Simulation and Optimization in Dynamic Data Systems.” 
+
+Nitin Agrawal of the Bioengineering Department and John Cressman of the College of Science received $150K from the National Science Foundation for their project, "An Integrated Biosensing Platform for Real-Time Hypoxia Studies." 
+
+Kris Gaj and Jens-Peter Kaps of the Electrical & Computer Engineering Department received $125K from McQ, Inc. and the Department of Defense (MDA) for their project, “Physical Unclonable Functions (PUFs) for Unique and Robust Encryption Key Generation (Phase II).” 
+
+Houman Homayoun of the Electrical & Computer Engineering Department and Siddhartha Sikdar of the Bioengineering Department received $288K from the National Science Foundation for their project, "CSR:Small:Collaborative Research: Heterogeneous Ultra Low Power Accelerator for Wearable Biomedical Computing." 
+
+Paulo Costa and Duminda Wijisekera of the C4I Center received $26K from Fundação Casimiro Montenegro Filho for their project, "Cyber Security in Air Transportation Course." 
+
+Jana Košecká of the Computer Science Department received $267K from the National Science Foundation for her project, "NRI: Collaborative Research: Task Dependent Semantic Modeling for Robot Perception." 
+
+Peter Paris and Kai Zeng of the Electrical & Computer Engineering Department received $50K from the MITRE Corporation for their project, "Secure Communications in Wireless Environments." 
+
+Zhi (Gerry) Tian of the Electrical & Computer Engineering Department received $245K from the National Science Foundation for her project, "EAGER: Energy-Efficient Massive MIMO Processing for Millimeter-Wave Communications." 
+
+Kamaljeet Sanghera of the Information Sciences and Technology Department received $3K from National Center for Women and Information Technology (NCWIT) for her project, "NCWIT ASPIRE IT Program." 
+
+Tod Levitt of the C4I Center and Brian Mark of the Electrical & Computer Engineering Department received $30K from Echo Ridge, LLC, and the Air Force Research Laboratory for their project, "Trade Space Analysis for PNT Spectrum Sharing. 
+
+KC Chang of the Systems Engineering & Operations Research Department received $50K from the Army Research Office for his project, "Distributed Fusion with Copula." 
+
+Viviana Maggioni of the Sid and Reva Dewberry Department of Civil, Environmental and Infrastructure Engineering and Paul Houser of the College of Science received $239K from the National Oceanic and Atmospheric Administration (NOAA) for their project, "Optimal Precipitation Estimation for Land Surface Modeling." 
+
+Ken Hintz of the Electrical & Computer Engineering Department received $152K from the Department of the Navy (NPS) and the Department of Defense for his project, "Improving ORM Utilizing Implicit Collaboration & Context Sensitive Fusion." 
+
+Amarda Shehu of the Computer Science Department received $22K from the National Science Foundation for her project, “Travel Awards for 2015 IEEE International Conference on Bioinformatics and Biomedicine (BIBM-2015).” 
+
+Jeff Offutt of the Computer Science Department received $900K from Google for his project, "Self-Paced Learning Increases Retention and Capacity (SPARC)." 
+
+Carlotta Domeniconi of the Computer Science Department received $68K from the Financial Industry Regulatory Authority (FINRA) for her project, "Summarization, Profiling, and Community Detection in Large Semi-Structured Graph Data." 
+
+Songqing Chen and Fei Li of the Computer Science Department received $390K from the Army Resesarch Office for their project, "Moving Target Defense Through Dynamic Virtual Machine Placement in Clouds." 
+
+Duminda Wijisekera of the Center for Assured Research & Engineering received $550K from the U.S. Dept. of Transportation for his project, "Secure SDR Communication Protocols and Configuration Management for PTC." 
+
+Jonathan Gifford of the School of Policy, Government, and International Affairs and Shanjiang Zhu of the  Sid and Reva Dewberry Department of Civil, Environmental and Infrastructure Engineering received $8K from Booz Allen Hamilton and US Dept. of Transportation for their project, "Development of Framework and Educational Tool to Assess the Benefits and Costs of Highway Public-Private Partnerships (P3)." 
+
+Jessica Lin of the Computer Science Department received $240K from Semiconductor Research Corporation for her project, "Scalable Multivariate Temporal Pattern Discovery." 
+
+Burak Tanyu of the Sid and Reva Dewberry Department of Civil, Environmental and Infrastructure Engineering received $23K from the Virginia Department of Transportation for his project, "Equipment Grant to Instrument Geosynthetic Reinforced Soil Structure Integrated into VDOT Bridge Abutment in Staunton, VA." 
+
+Sushil Jajodia of the Center for Secure Information Systems received $50K> from National Institute of Standards and Technology for his project, "Securing Cloud Infrastructure through Improving Network Diversity and Moving Target Defense." 
+
+Jessica Lin and Huzefa Rangwala of the Computer Science Department received $92K from Strategic Analysis, Inc., and the Naval Research Laboratory for their project, "Trajectory Pattern Mining for Proactive Decision Support." 
+
+Edward Huang, Chun-Hung Chen, and Jie Xu of the Systems Engineering & Operations Research Department received $459K from the National Science Foundation for their project, "Improving Search Efficiency in Engineering Design by Integrating Multiple Models at Different Fidelities." 
+
+Karla Hoffman of the Systems Engineering & Operations Research Department received $267K from the Office of Naval Research for her project, "Optimal Spectrum Allocation to Support Tactical Mobile Ad-hoc Networks." 
+
+Kathleen Wage of the Electrical & Computer Engineering Department received $16K from the National Science Foundation. 
+
+The following faculty members received $32K from VentureWell for their project, "Classroom to Makers Week (C2MW): A Year-Long Journey from Idea to Implementation at George Mason University": Viviana Maggioni – Sid and Reva Dewberry Department of Civil, Environmental and Infrastructure Engineering , Max Albanese & Mihai Boicu – Applied Information Technology Department , Nathalia Peixoto – Electrical & Computer Engineering Department , Colin Reagle – Mechanical Engineering Department, Mahesh Joshi – School of Business,Betsy Schmidt – College of Humanities and Social Sciences. 
+
+William Roeting of the C4I Center received $125K from Parsons Government Systems Corp. and the Department of Defense for his project, "Android Tactical Assault Kit (ATAK) - Integrated Automated Intelligence Workflow." 
+
+Jan Allbeck of the Computer Science Department received $20K from the Entertainment Software Association for her project, "ESA Anti-Piracy Game."   
+
+Robert Elder & Alex Levis of the Electrical & Computer Engineering Department received $30K from Exelis Inc. and the Naval Research Laboratory for their project, "Kinetic/Non-Kinetic Integrated Force Effects (KNIFE) JCTD Transition Activities." 
+
+William Roeting of the C4I Center received $278K from Webworld Technologies, Inc. and the U.S. Air Force for his project, "Smart Node Pod Initiative." 
+
+Sushil Jajodia of the Center for Secure Information Systems received $1.2M from the U.S. Department of the Navy for his project, "ASSERT: Automated Security System Event Response Techniques." 
+
+John Miller of the Statistics Department received $96K from South Dakota State University and the U.S. Department of Justice for his project, "The Value of Evidence." 
+
+Burak Tanyu of the Sid and Reva Dewberry Department of Civil, Environmental and Infrastructure Engineering received $102K from the University of Texas at Austin and the U.S. Department of Transportation for his project, "Defining the Boundary Conditions for Composite Behavior of Geosynthetic Reinforced Soil (GRS) Structures." 
+
+Max Albanese and Sushil Jajodia of the Center for Secure Information Systems received $120K from Sandia Research Corporation and the U.S. Department of Defense for their project, "Effective CSA Assessment and Training." 
+
+Qilian Li of the Electrical & Computer Engineering Department received $49K from N5 Sensors, Inc. and the Army Research Office for his project, "Large-area MoS2 RF devices." 
+
+Dan Carr of the Statistics Department and David Wong of the Geography & Geoinformation Science Department received $414K from University of Texas at Dallas and the National Institutes of Health for their project, "Uncertainty in Spatial Data: Identification, Visualization and Utilization." 
+
+Burak Tanyu of the Sid & Reva Dewberry Department of Civil, Environmental, & Infrastructure Engineering received $51K from the University of Wisconsin and the U.S. Department of Transportation for his project, "Use of Recycled Materials as Mechanically Stabilized Earth (MSE) Retaining Wall Reinforced Backfills." 
+
+Jyh-Ming Lien of the Computer Science Department received $40K from Virginia Tech and the U.S. Geological Survey for his project, "Development of Dynamic Gridding Tools for the USGS MODFLOW-USG Computer Program for Simulating Groundwater Flow." 
+
+Kai Zeng of the Electrical & Computer Engineering Department received $225K from the National Science Foundation for his project, "EARS: Collaborative Research: Intelligence Measure of Cognitive Radio Networks." 
+
+Siddhartha Sikdar of the Bioengineering Department received $42K from the Department of Veterans Affairs for his project, "Asymptomatic Carotid Stenosis and Cognitive Correlates of Function (ACCOF)." 
+
+Juan Cebral of the Bioengineering Department received $201K from the Mayo Clinic and the National Institutes of Health for his project, "Computational and Biological Approach to Flow Diversion." 
+
+Jessica Lin and Huzefa Rangwala of the Computer Science Department received $37K from Strategic Analysis, Inc., and the Naval Research Laboratory for their project, "Contextual Anomaly Detection in Medical Applications." 
+
+Qi Wei of the Bioengineering Department received $20K from Northwestern University and the National Institutes of Health for h34 project, "The Neural Control of Internal Joint State Variables." 
+
+Max Albanese and Mihai Boicu of the Applied Information Technology Department received $23K from National Collegiate Inventors and Innovators Alliance for their project, "Extra-Curricular Activities to support Educational Programs in Information Technology Entrepreneurship." 
+
+Parag Chitnis of the Bioengineering Department received $223K from the U.S. Department of Health & Human Services for his project, "An All-Optical Photoacoustic Imaging System for the Eye." 
+
+Shanjiang Zhu of the Sid and Reva Dewberry Department of Civil, Environmental and Infrastructure Engineering received $20K from Virginia Tech and the Virginia Center for Transportation Innovation and Research for his project, "Transportation System Impact of the Opening of Phase 1 of the Silver Line." 
+
+Sam Malek of the Computer Science Department received $500K from the Department of Homeland Security for his project, "Tools for Automated Detection and Assessment of Security Vulnerabilities in Mobile Applications." 
+
+Vasiliki Ikonomidou of the Bioengineering Department and Margret Hjalmarson of the College of Education & Human Development received $150K from the National Science Foundation for their project, "   Research Initiation Grant: Student-directed differentiated learning in college-level engineering education." 
+
+Huzefa Rangwala (Computer Science Department), Aditya Johri (Applied Information Technology Department), and Jaime Lester (Higher Education Program) received $766K from the National Science Foundation for their project, "BIGDATA: IA: DKA: Collaborative Research: Learning Data Analytics: Providing Actionable Insights to Increase College Student Success." 
+
+Yotam Gingold of the Computer Science Department received $70K from the National Science Foundation for his project, "Improving the Quality and Editability of 2D and 3D Shapes via Crowdsourcing and Self-Crowdsourcing." 
+
+Nathalia Peixoto of the Electrical & Computer Engineering Department received $100K from the National Science Foundation for her project, "Bioimpedance of stimulating electrodes for the safe placement of retinal implants." 
+
+Brian Mark of the Electrical & Computer Engineering Department received $472K from the National Science Foundation for his project, "NeTS: Small: Spectrum Sensing and Resource Allocation for Cognitive Radio Networks." 
+
+Khondkar Islam of the Applied Information Technology Department received $50K from the Silicon Valley Community Foundation for his project, "A Framework to Expand Outreach via the Virtual Learning Model." 
+
+Max Albanese of the Applied Information Technology Department received $7K from Northrop Grumman Corporation for his project, "Cybersecurity Engineering of Transportation Systems." 
+
+Kai Zeng of the Electrical & Computer Engineering Department received $225K from the National Science Foundation for his project, "Collaborative Research: Intelligence Measure of Cognitive Radio Networks." 
+
+Angelos Stavrou of the Center for Assured Research & Engineering received $175K from the National Science Foundation for his project, "TWC: TTP Option: Small: Collaborative: Scalable Techniques for Better Situational Awareness: Algorithmic Frameworks and Large-Scale Empirical Analyses." 
+
+Jan Allbeck of the Computer Science Department and Michael Hieb of the C4I Center received $120K from CACI Technologies, Inc. and the U.S. Department of Defense for their project, "NVESD Virtual Worlds." 
+
+Amarda Shehu of the Computer Science Department received $217K from the National Science Foundation for her project, "Collaborative: A plug-and-play software platform of robotics-inspired algorithms for mapping protein structures and motions." 
+
+Hakan Aydin of the Computer Science Department received $270K from the National Science Foundation for his project, "CSR: Small: Collaborative Research: Dependable Real-Time Computing on Heterogeneous Chip Multiprocessor." 
+
+Dimitris Ioannou of the Electrical & Computer Engineering Department received $38K from the U.S. Department of Commerce for his project, "Glassy-polymer Electret Random Access Memory (GeRAM)." 
+
+Jana Košecká of the Computer Science Department received $73K from the U.S. Department of Commerce for her project, "Confidence Based Segmentation and Labeling on Spatio-Temporal Imagery." 
+
+Tod Levitt and Kathy Laskey of the C4I Center and the Systems Engineering & Operations Research Department received $30K from Systems & Technology Research and Missile Defense Agency for their project, "Decision Making Under Uncertainty for Missile Defense." 
+
+Andrew Loerch of the Systems Engineering & Operations Research Department and Liansheng Tang of the Statistics Department received $110K from ManTech Systems Engineering Company for their project, "Support to USMC Gender Experimentation." 
+
+Joe Pancrazio of the Bioengineering Department received $45K from Virginia Center on Aging for his project, "Analysis of Amyloid Beta Effects with Living Neuronal Networks." 
+
+Paulo Costa, Kathy Laskey, & Jie Xu of the C4I Center and the Systems Engineering & Operations Research Department received $20K from the Office of Naval Research for their project, "Context-Based Decisions with Multi-Entity Decision Graphs." 
+
+Sam Malek of the Computer Science Department received $85K from Carnegie Mellon University and the National Security Agency for his project, "Science of Secure Frameworks." 
+
+Duminda Wijesekera of the Center for Assured Research & Engineering received $132K from the U.S. Department of Commerce for his project, "Using the Policy Machine to Enforce Access to Health Records." 
+
+Jana Košecká of the Computer Science Department received $99K from the Object Video, Inc., and the Intelligence Advanced Research Projects Activity for her project, "FINDER Phase 2A." 
+
+Max Albanese of the Applied Information Technology Department received $5K from the National Collegiate Inventors and Innovators Alliance for his project, "E-Mow: Biomass-Powered Robot Harvester." 
+
+Amarda Shehu and Ken DeJong of the Computer Science Department received $400K from the National Science Foundation for their project, "CCF: AF: Small: Novel Stochastic Optimization Algorithms to Advance the Treatment of Dynamic Molecular Systems." 
+
+Liansheng (Larry) Tang of the Department of Statistics received $78K from the U.S. Department of Health & Human Services for his project, "IPA for Liansheng Tang." 
+
+Kamaljeet Sanghera of the Applied Information Technology Department received $6K from National Center for Women and Information Technology for her projects, "Game Programming using Microsoft Kodu" and "Cyber Security." 
+
+Qiliang Li of the Electrical & Computer Engineering Department received $190K from the National Science Foundation for his project, "Collaborative Research: Surface Engineering and Atomic Layer Deposition of Dielectrics on Two-Dimensional Atomic Crystals for Device Application." 
+
+David Lattanzi of the Sid and Reva Dewberry Department of Civil, Environmental and Infrastructure Engineering received $265K from the National Science Foundation for his project, "Comprehensive Structural Assessments Through Hierarchical Computer Vision." 
+
+Sushil Jajodia of the Center for Secure Information Systems received $283K from the National Security Agency for his project, "2014-2015 IASP Scholarship Program." 
+
+Kamaljeet Sanghera of the Applied Information Technology Department received $3K from National Center for Women and Information Technology for her project, "APP Development with Social Entrepreneurship." 
+
+Tod Levitt and Kathy Laskey of the C4I Center received $225K from ExoAnalytic Solutions and the Missile Defense Agency for their project, "Uncertainty Characterization in RF/EO Track Correlation." 
+
+Angelos Stavrou of the Center for Assured Research & Engineering and J.P. Auffret of the School of Business received $268K from Agency for Defense Development for their project, "Technical consulting on the test and evaluation methodology for cyber-security technologies." 
+
+Qilian Li and Dimitris Ioannou of the Electrical & Computer Engineering Department received $100K from the Center for Innovative Technology for their project, "Manufacture Large-Area Two-Dimensional Semiconductor Materials for Portable, Flexible and Transparent Electronics." 
+
+Qi Wei and Siddhartha Sikdar of the Bioengineering Department received $100K from the Jeffress Trust for their project, "A Novel Computational Model to Study Human Eye Movement Disorders." 
+
+Douglas Corner, Michael Hieb, and Mark Pullen of the C4I Center were selected to receive the Science & Technology Organization (STO) 2013 Scientific Achievement Award from NATO. The announcement states: 
+
+"This Award recognizes exceptional effort in significant STO activities, excellence and originality in the scientific and technical content therein, outstanding results in terms of military benefit and, since it was about a team award, quality and degree of collaboration." 
+
+Rao Mulpuri of the Electrical & Computer Engineering Department received $10K from the National Science Foundation for his project, "Funding for Student Participation at the 20th International Conference on Ion Implantation Technology, Portland, Oregon." 
+
+John Shortle of the Systems Engineering & Operations Research Department and the Center for Air Transportation Systems Research received $119K from the University of Maryland and the Federal Aviation Administration for his project, "Fast-time simulation and sensitivity analysis for event sequence diagrams in the Integrated Safety Assessment Model." 
+
+Aditya Johri of the Applied Information Technology Department received $428K from National Science Foundation for his project, "TILES: Trajectories of Informal Learning among Engineering Students." 
+
+Aditya Johri of the Applied Information Technology Department received $372K from National Science Foundation for his project, "Collaborative Research: Deep Insights Anytime, Anywhere (DIA2). 
+
+Kris Gaj and Jens-Peter Kaps of the Electrical & Computer Engineering Department received $35K from McQ and the Missile Defense Agency for their project, "Physical Unclonable Functions (PUFS) for Unique and Robust Encryption Key Generation." 
+
+Robert Elder and Alex Levis of the Electrical & Computer Engineering Department received $200K from the University of Maryland and the U.S. Department of Homeland Security for their project, "SMA 2014 Pacific Strategic Risk Study." 
+
+Qilian Li of the Electrical & Computer Engineering Department received $50K from the National Institute of Standards and Technology for his project, "Two-Dimensional Atomic Crystal Field Transistors with Ultra-High Sensitivity." 
+
+Ken Hintz of the Electrical & Computer Engineering Department received $27K from FirstGuard Technologies Corp. and the Office of Naval Research for his project, "Pre-Shot Sniper Detection Data Analysis." 
+
+Sushil Jajodia of the Center for Secure Information Systems received $50K from the U.S. Department of Commerce (NIST) for his project, "Network Diversity and Network Attack Surface Metrics and Their Applications to Cloud Computing and Moving Target Defense." 
+
+Daniel A. Menasce, a University Professor of Computer Science, has been named a Fellow of the IEEE for  contributions to research and education in performance evaluation of computer systems. 
+
+Yotam Gingold of the Computer Science Department received $42K from the Google Research Awards program for his project, "Diamonds from the Rough: Improving Creative Performance via Aggregation." 
+
+Mark Pullen and Nicholas Clark of the C4I Center received $17K from Truestone and the U.S. Army for their project, "AMSO - Intergrated Standards." 
+
+Daniel Fleck and Angelos Stavrou of the Computer Science Department received $744K from Invincea Labs and the Defense Advanced Research Projects Agency (DARPA) for their project, "TAPIO: Targeted Attack Premonition using Integrated Operational data sources." 
+
+Sushil Jajodia of the Center for Secure Information Systems received $24K from the Army Research Office for his project, "Cyber Warfare: Building the Scientific Future." 
+
+Ariela Sofer, Edward Huang, and Abbas Zaidi of the Systems Engineering & Operations Research Department received $100K from Pohang University of Science and Technology for their project, " A Case Study: Designing an Electric Power Plant Using Model-Based Systems Engineering Techniques." 
+
+Arun Sood and Duminda Wijisekera of the Computer Science Department and the International Cyber Center received $60K from the Cyber Security Research Alliance for their project, "A Survey and Taxonomy on the Roots of Trust in Cyber-Physical Systems." 
+
+KC Chang of the Systems Engineering & Operations Research Department received $60K from Intelligent Fusion Technology, Inc. and the U.S. Air Force for his project, "Decision Making under Uncertainty for Dynamic Spectrum Access Systems in Space Application." 
+
+Duminda Wijisekera of the Computer Science Department received $386K from Howard University and the U.S. Department of Transportation (FRA) for his project, "PTC Systems Identity Management." 
+
+Jie Xu of the Systems Engineering & Operations Research Department received $5K from Oak Ridge Associate Universities for his project, "Revenue Management in the Cloud." 
+
+Duminda Wijisekera of the Computer Science Department received $330K from the U.S. Department of Transportation for his project, "Mapping GSM-R into US Wireless Frequency Intervals for High-Speed Rail." 
+
+Sam Malek of the Computer Science Department received $84K from the University of Southern California and the U.S. Space & Naval Warfare Systems Command for his project, "Testing Privacy-Preserving Distributed Systems on DETERLab." 
+
+Aditya Johri of the Applied Information Technology Department received $150K from the National Science Foundation for his project "Collaborative Research (EAGER): Data Ecosystem for Catalyzing Transformative Research in Engineering Education." 
+
+Krishna Kant of the Center for Secure Information Systems has been named a Fellow of the IEEE for contributions to enterprise server  performance, power management technologies and domain name system robustness. 
+
+Kun Sun and Max Albanese of the Center for Secure Information Systems received $115K from the University of Washington and the U.S. Department of the Army for his project "Modeling and Analysis of Moving Target Defense Mechanisms in MANET." 
+
+Kathleen Wage of the Electrical & Computer Engineering Department received $6K from the Office of Naval Research for her project "Partial Underwriting for the 2013 IEEE Underwater Acoustic Signal Processing Workshop." 
+
+Nathalia Peixoto of the Electrical and Computer Engineering Department, John Cressman of the Krasnow Institute, and Tim Sauer of the Mathematical Sciences Department received $360K from the National Science Foundation for their project "Identification and Control for Pattern Steering in Dynamical Networks." 
+
+Ken Hintz of the Electrical & Computer Engineering Department was issued the following patent by the US PTO. Title: Cavity Detection Inventors: Kenneth J. Hintz Number: 8,599,061 B2 Issue date: December 3, 2013 
+
+Amarda Shehu and Huzefa Rangwala of the Computer Science Department received $74K from the National Science Foundation for their project "2014 NSF CISE CAREER Proposal Writing Workshop." 
